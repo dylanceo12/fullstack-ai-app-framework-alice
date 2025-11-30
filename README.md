@@ -1,7 +1,5 @@
 # Alice AGI
 
-<img src="https://cloud.overment.com/2024-12-02/alice_agi-dc8ca6a3-1.png" style="border-radius: 10px; border: 1px solid #888" width="150">
-
 Alice AGI is an application that uses LLM (GPT-4o) to perform actions based on user queries, while using available tools and long-term memory.
 
 > **⚠️ Important Notice**
